@@ -24,7 +24,7 @@ The workshop is divided into multiple sections including 16 slides, 1 demo and 2
 
 ### 🕐Timing
 
-| Time        | Description 
+| Time        | Description
 --------------|-------------
 0:00 - 5:00   | Intro and overview
 5:00 - 70:00  | Session Steps
@@ -34,4 +34,8 @@ The workshop is divided into multiple sections including 16 slides, 1 demo and 2
 Preparation Notes go here
 
 ### 🖥️Demos
-Description of demos goes here
+
+- Demo 1: [PostgreSQL Retail App](01-postgres-retail-app.md)
+- Demo 2: [Azure Cosmos DB Rewards App](02-cosmosdb-rewards-chat.md)
+- Demo 3: [Azure SQL Database](03-sql-accounts-receievable.md)
+- Demo 4: [SQL DB in Microsoft Fabric](04-microsoft-fabric.md)
