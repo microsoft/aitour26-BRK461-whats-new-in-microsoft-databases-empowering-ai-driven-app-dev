@@ -1,90 +1,45 @@
-# Welcome AI Tour 26 Creators!
-
-Thanks for creating content for AI Tour 26.
-
-One of our opportunities from FY25 was make a more consistent experience for attendees.  Following this template, and keeping users in these repos, will help us achieve this opportunity for this year's AI Tour.
-
-Steps:
-
-## Docs using MKDocs
-If you are interested in using mkdocs, this repo is configured for it.
-1. update the `mkdocs.yml` file to reference your session. Look particularly for the `site_name`, `site_author`, and `repo_name` tags.
-1. Subfolders in the docs folder will show up as tabs in the navigation bar.
-
-If you want to disable mkdocs:
-1. Delete the mkdocs.yml file. 
-1. Delete the references to it in [docs/README.md](./docs/README.md)
-1. Delete the docs/assets folder and its contents.
-
-## Other folders
-Note the data, docs, src, lab, session-delivery-resources folders. 
-1. Remove folders that you dont need.
-1. Please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-## Update Readme
-1. Fill out the content below in this file, below the banner graphic.
-
-## Update Repo Info
-
-1. Note the data, docs, src, lab, session-delivery-resources folders. 
-
-    1. Remove folders that you dont need, but please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-1. Fill out the content below in this file, below the banner graphic.
-
-1. Update the Repo Info for this repo 
-    1. Click the gear icon⚙️ in the upper right.
-    1. Set a good description of this repo.
-    1. Add the technologies that you're using in this session.  E.g. the same items that are in the Technologies Used section below.
-
-1. Please embed links to Learn with your campaign codes!
-
-## Slides and Recordings
-1. Do not store slides or recordings in this repo
-1. We will implement a similar solution to last year's with azure blob storage. When the time comes, link to these from the session-delivery-resources folder readme.
-
-## Questions?
-Send them to Mike Kinsman, Erik Weis, and cc Anthony Bartolo, or surface through your content lead.
-
-## Last step
-Delete this line and everything above it!
-
-
 <p align="center">
 <img src="img/Banner-MS-AI-Tour-26.png" alt="decorative banner" width="1200"/>
 </p>
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## 🔥BRKXXX: Whats new in Microsoft databases: empowering ai-driven app dev
+## BRK461: Whats new in Microsoft databases: empowering ai-driven app dev
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
 ### Session Description
 
-*Add Session Description*
+This session explores the latest innovations in Microsoft’s database portfolio, focusing on how Azure Database for PostgreSQL, Azure Cosmos DB, Microsoft SQL, and Microsoft Fabric empower organizations to build AI-driven applications. Through the story of Zava, a rapidly evolving retailer, attendees will learn how to modernize fragmented data estates, integrate AI capabilities, and deliver scalable, secure, and intelligent solutions across retail, rewards, and finance scenarios. The session features practical demos, real-world architectures, and actionable guidance for developers and data professionals seeking to accelerate AI adoption with Microsoft databases.
 
-
-### 🧠 Learning Outcomes
+### Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- Identify the strengths and use cases of Azure Database for PostgreSQL, Azure Cosmos DB, Microsoft SQL, and Microsoft Fabric for AI-driven app development. 
+- Understand how to integrate native AI capabilities (vector search, agentic frameworks, REST endpoints) into modern applications.
+- Design data architectures that support scalability, security, and rapid innovation across diverse workloads.
 
-### 💻 Technologies Used
+### Technologies Used and Covered
 
-1.
-1.
-1.
+1. Azure Database for PostgreSQL
+2. Azure Cosmos DB
+3. Microsoft SQL
+4. Microsoft Fabric
 
-### 🔗 Session Resources
+
+### Session Resources
+
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Additional Resources for this session | https://learn.microsoft.com | Links specific to this session |
+| Postgres Agentic Shop Demo | https://github.com/Azure-Samples/postgres-agentic-shop | Retail app demo using PostgreSQL and AI agents |
+| Cosmos DB Multi-Agent Workshop | https://github.com/AzureCosmosDB/banking-multi-agent-workshop | Rewards chat app demo using Cosmos DB and AI agents |
+| Semantic Kernel Connectors | https://learn.microsoft.com/en-us/semantic-kernel/concepts/vector-store-connectors/out-of-the-box-connectors/postgres-connector | Integrate PostgreSQL with Semantic Kernel |
+| LangChain Integration | https://learn.microsoft.com/azure/postgresql/flexible-server/generative-ai-develop-with-langchain | Build agentic apps with LangChain and PostgreSQL |
+| Azure AI Foundry Agent Service | https://learn.microsoft.com/azure/ai-services/content-safety/overview | Managed platform for building and deploying AI agents |
 
-### 📚 Continued Learning Resources
+### Continued Learning Resources
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | AI Tour 2026 Resource Center | https://aka.ms/AITour26-Resource-Center | Links to all repos for AI Tour 26 Sessions |
@@ -97,27 +52,21 @@ By the end of this session, learners will be able to:
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+    <td align="center"><a href="http://github.com/paladique">
+        <img src="https://github.com/paladique.png" width="100px;" alt="Jasmine Greenawa
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> Jasmine Greenaway
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/paladique" title="talk">📢</a> 
     </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
+    <td align="center"><a href="http://github.com/iemejia">
+        <img src="https://github.com/iemejia.png" width="100px;" alt="Ismaël Mejía Useche
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Ismaël Mejía Useche
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/iemejia" title="talk">📢</a> 
     </td>
 </tr></table>
 
