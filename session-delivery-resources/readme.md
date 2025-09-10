@@ -2,36 +2,36 @@
 
 🥇 Thanks for delivering this session!
 
-Prior to delivering the workshop please:
+Prior to delivering please:
 
-1.  Read this document and all included resources included in their entirety.
-2.  Watch the video presentation
-3.  Ask questions of the content leads! We're here to help!
+1. Read this document and all included resources included in their entirety.
+2. Watch the video presentation
+3. Ask questions of the content leads! We're here to help!
 
 
 ## 📁 File Summary
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this workshop with presenter notes and embedded demo video |
-| Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
-| More Files     |  [Some More Files](https://aka.ms/) | More File Descriptions |
+| Session Delivery Deck     |  [Deck](https://aka.ms/AAxu59s) | The session delivery slides |
+| Session Delivery Video    |  [Video](https://aka.ms/AAxuglf) | More File Descriptions |
+| Demo 1 Video - Postgres     |  [Postgres Demo](https://aka.ms/) | Postgres Demo, no audio |
+| Demo 2 Video - Cosmos DB   |  [Cosmos DB Demo](https://aka.ms/AAxuglj) | No Audio |
+| Demo 3 Video - Azure SQL    |  [Azure SQL Demo](https://aka.ms/AAxuglg) | No Audio |
+| Demo 4 Video - SQL in Fabric    |  [SQL in Fabric Demo](https://aka.ms/AAxud0p) | With Audio |
 
-
-## 🚀Get Started
-
-The workshop is divided into multiple sections including 16 slides, 1 demo and 2 hands on labs.
 
 ### 🕐Timing
 
 | Time        | Description
 --------------|-------------
-0:00 - 5:00   | Intro and overview
-5:00 - 70:00  | Session Steps
-70:00 - 75:00 | Wrap up and Q&A
+| 0:00 - 5:00   | Intro
+| 5:00 - 15:00   | Postgres
+| 15:00 - 25:00   | Cosmos DB
+| 25:00 - 35:00   | Azure SQL
+| 35:00 - 40:00   | Fabric Databases (SQL)
+| 40:00 - 45:00 | Closing and CTA
 
-### 🏋️Preparation
-Preparation Notes go here
 
 ### 🖥️Demos
 
