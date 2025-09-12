@@ -14,7 +14,7 @@ Prior to delivering please:
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Session Delivery Deck     |  [Deck](https://aka.ms/AAxu59s) | The session delivery slides |
-| Session Delivery Video    |  [Video](https://youtu.be/BxVkWKGd3PA) | More File Descriptions |
+| Session Delivery Video    |  [Video](https://youtu.be/BxVkWKGd3PA) | Full recording of this session |
 | Demo 1 Video - Postgres     |  [Postgres Demo](https://aka.ms/) | Postgres Demo, no audio |
 | Demo 2 Video - Cosmos DB   |  [Cosmos DB Demo](https://aka.ms/AAxuglj) | No Audio |
 | Demo 3 Video - Azure SQL    |  [Azure SQL Demo](https://aka.ms/AAxuglg) | No Audio |
