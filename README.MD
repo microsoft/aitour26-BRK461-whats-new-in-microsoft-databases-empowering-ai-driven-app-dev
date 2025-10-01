@@ -4,7 +4,7 @@
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## BRK461: Whats new in Microsoft databases: empowering ai-driven app dev
+## 🔥BRK461: Whats new in Microsoft databases: empowering ai-driven app dev
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
@@ -62,9 +62,9 @@ Additional Languages coming soon!
             <a href="https://github.com/paladique" title="talk">📢</a> 
     </td>
     <td align="center"><a href="http://github.com/iemejia">
-        <img src="https://github.com/iemejia.png" width="100px;" alt="Ismaël Mejía Useche
+        <img src="https://github.com/iemejia.png" width="100px;" alt="Ismaël Mejía
 "/><br />
-        <sub><b>Ismaël Mejía Useche
+        <sub><b>Ismaël Mejía
 </b></sub></a><br />
             <a href="https://github.com/iemejia" title="talk">📢</a> 
     </td>
