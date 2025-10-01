@@ -18,7 +18,7 @@ Explore how intelligent agents handle search, sentiment, memory, and personaliza
 ## Setup
 
 This demo is prepared to run on Azure. Please note that this demo is **Python only**.
-To set up this demo, follow the instructions provided in the [PostgreSQL Agentic Shop](https://aka.ms/postgresql-agentic-shop) repository. Additionally, install the [Visual Studio Code extension for PostgreSQL](aitour26-postgres-vscode-extension) and use it in VS Code's agent mode to complete the steps as demonstrated.
+To set up this demo, follow the instructions provided in the [PostgreSQL Agentic Shop](https://aka.ms/postgresql-agentic-shop) repository. Additionally, install the [Visual Studio Code extension for PostgreSQL](https://aka.ms/aitour26-postgres-vscode-extension) and use it in VS Code's agent mode to complete the steps as demonstrated.
 
 ## Preparation
 
