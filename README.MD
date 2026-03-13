@@ -35,6 +35,8 @@ By the end of this session, learners will be able to:
 | Additional Resources for this session | https://learn.microsoft.com | Links specific to this session |
 | Postgres Agentic Shop Demo | https://github.com/Azure-Samples/postgres-agentic-shop | Retail app demo using PostgreSQL and AI agents |
 | Cosmos DB Multi-Agent Workshop | https://github.com/AzureCosmosDB/banking-multi-agent-workshop/tree/ai-tour | Rewards chat app demo using Cosmos DB and AI agents |
+| AI Chat with Enterprise data | https://github.com/Azure-Samples/serverless-chat-langchainjs | New demo to get your enterprise chat answer only from your own documents | 
+| Multi-DB Demo | https://github.com/emmanueldeletang/DBwithAISAMPLE | A demo showing multi-database architecture with vector similarity search, natural language queries, MCP (Model Context Protocol) servers, activity tracking. |
 | Semantic Kernel Connectors | https://learn.microsoft.com/en-us/semantic-kernel/concepts/vector-store-connectors/out-of-the-box-connectors/postgres-connector | Integrate PostgreSQL with Semantic Kernel |
 | LangChain Integration | https://learn.microsoft.com/azure/postgresql/flexible-server/generative-ai-develop-with-langchain | Build agentic apps with LangChain and PostgreSQL |
 | Azure AI Foundry Agent Service | https://learn.microsoft.com/azure/ai-services/content-safety/overview | Managed platform for building and deploying AI agents |
