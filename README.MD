@@ -39,7 +39,7 @@ By the end of this session, learners will be able to:
 | Multi-DB Demo | https://github.com/emmanueldeletang/DBwithAISAMPLE | A demo showing multi-database architecture with vector similarity search, natural language queries, MCP (Model Context Protocol) servers, activity tracking. |
 | Semantic Kernel Connectors | https://learn.microsoft.com/en-us/semantic-kernel/concepts/vector-store-connectors/out-of-the-box-connectors/postgres-connector | Integrate PostgreSQL with Semantic Kernel |
 | LangChain Integration | https://learn.microsoft.com/azure/postgresql/flexible-server/generative-ai-develop-with-langchain | Build agentic apps with LangChain and PostgreSQL |
-| Azure AI Foundry Agent Service | https://learn.microsoft.com/azure/ai-services/content-safety/overview | Managed platform for building and deploying AI agents |
+| Microsoft Foundry Agent Service | https://learn.microsoft.com/azure/ai-services/content-safety/overview | Managed platform for building and deploying AI agents |
 
 ### Continued Learning Resources
 | Resources          | Links                             | Description        |
